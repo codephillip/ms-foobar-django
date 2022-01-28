@@ -1,0 +1,12 @@
+/venv/
+.idea/
+.vscode/
+docker-compose.yml
+webhook_log.txt
+sms_sender_log.txt
+.env
+/sheets
+.envtest
+*/__pycache__/*
+ms_foobar_app/migrations/__pycache__/
+db.sqlite3
